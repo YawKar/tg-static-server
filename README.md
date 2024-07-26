@@ -1,5 +1,5 @@
 # What's that?
-Y'all now the drill, this is a dead simple static resource server over telegram.
+Y'all know the drill, this is a dead simple static resource server over telegram.
 
 No authentication & authorization is a feature!
 
